@@ -1,6 +1,6 @@
 authors: [Gumbratt]
 version: 1.0.0
 api: 1.12.0
-main: Gumbratt\unlimited\Loader
+main: Gumbratt/UnlimitedSlots/Main.php
 load: STARTUP
 description: "No player limit!"
