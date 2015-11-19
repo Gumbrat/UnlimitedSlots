@@ -1,9 +1,9 @@
 <?php
-	namespace Gumbratt\unlimited;
+namespace Gumbratt\unlimited;
 	
-	use pocketmine\plugin\PluginBase as Plugin;
-	use pocketmine\event\Listener;
-	use pocketmine\event\player\PlayerKickEvent;
+use pocketmine\plugin\PluginBase as Plugin;
+use pocketmine\event\Listener;
+use pocketmine\event\player\PlayerKickEvent;
 			
 	class Loader extends Plugin implements Listener {
 		public function onEnable() {
