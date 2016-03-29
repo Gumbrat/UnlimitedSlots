@@ -1,6 +1,9 @@
-authors: [Gumbratt]
+name: UnlimitedSlots
+main: Gumbratt\UnlimitedSlots\Main
 version: 1.0.0
-api: 1.12.0
-main: Gumbratt/UnlimitedSlots/Main.php
-load: STARTUP
-description: "No player limit!"
+api: 1.14.0
+#When you wish up update this, use
+#api: 2.0.0
+load: POSTWORLD
+author: Gumbrat-And-TheDeibo
+description: No player limit!
